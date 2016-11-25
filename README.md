@@ -22,7 +22,9 @@ In each of the item, I always clarify what’s the next actionable step.  An act
 As I also wanted to view it a non-sequential style, I wrote a procedure (shortcut ctrl+L) to push the actions to column E. 
 
 iii. Organize by category and priority
-From i and ii, I’m able to break down the item into actionable steps, but I’m unable to view my items from a single glance. Therefore, to make life simple, I proceed to write a procedure (press SORT orange box) under ‘Directory tab’ to collate the list of items. From the directory tab, you can key in an item in E2, and you would be able to get back to corresponding item udner ‘Getting things done’ tab.    
+From i and ii, I’m able to break down the item into actionable steps, but I’m unable to view my items from a single glance. Therefore, to make life simple, I proceed to write a procedure (press SORT orange box) under ‘Directory tab’ to collate the list of items. From the directory tab, you can key in an item in E2, and you would be able to get back to corresponding item udner ‘Getting things done’ tab.   
+
+
 A feature that I added recently is the Deadlines procedure under ‘Deadlines’ tab. For this feature to work, you would have to first add the dates for action to be completed in Getting Things done tab under column C. So if you click the orange box in ‘Deadline’ tab, it will list the items with associated action and deadline in the same row.
 To ‘bring out’ the deadlines, I wrote a code to activate this feature whenever I opened this spreadsheet which is typically at the start of the day. So if the deadline happens to be today, a message box will pop out to remind me of that item & action. I had an earlier version that allows the programme to read out the task when it reaches the deadline. But I scrapped it when I find that it lags the system and seems to be more of a novelty.
 I’ve also included categories of actions under column D (Getting things donetab): Next, Waiting and Completed. By filtering with the following shortcuts so that I’m able to view the respective actions in 1 glance!
