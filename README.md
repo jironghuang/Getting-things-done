@@ -18,7 +18,7 @@ i. Capture everything
 This is an important part of the GTD process. When an item enters into your ‘realm’, capture it! What I do is to go to the ‘Getting things done tab’, and enter the item under Column B. In my item folder in desktop, I will create a subfolder to store the relevant items such as emails, pdf, doc in chronological order (using index of 1,2,… in the name of doc). Then I would copy address of the folder and paste it under column A in the tab.
 
 ii. Clarify the things you have to do. Break down into actionable steps
-In each of the item, I always clarify what’s the next actionable step.  An actionable step could be ‘Picking up the phone and call person xxx’. David Allen espouses that this is more likely to prompt you to act upon that merely stating an item. In my spreadsheet, this would be keyed under column G onwards. As I felt that many a time, certain items require concurrent or sequential actions, I try to list my actions in a pseudo-gantt chart format (see spreadsheet for eg). 
+In each of the item, I always clarify what’s the next actionable step.  An actionable step could be ‘Picking up the phone and call person xxx’. David Allen espouses that this is more likely to prompt you to act upon than merely stating an item (i.e. arrange a meeting). In my spreadsheet, this would be keyed under column G onwards. As I felt that many a time, certain items require concurrent or sequential actions, I try to list my actions in a pseudo-gantt chart format (see spreadsheet for eg). 
 As I also wanted to view it a non-sequential style, I wrote a procedure (shortcut ctrl+L) to push the actions to column E. 
 
 iii. Organize by category and priority
