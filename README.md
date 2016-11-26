@@ -33,7 +33,7 @@ I’ve also included categories of actions under column D (Getting things doneta
 * Waiting: ctrl+shift+w
 *	Completed:ctrl+shift+c
 
-#After completion of an item/project
+#After completing an item/project
 After completion, I will move the entire section for item under ‘Getting things done tab’ tab to the ‘Completed’ tab for future references. For the corresponding documents/emails in my ‘Items ‘ folder as mentioned in i, I will shift it to a ‘Completed’ folder in the desktop categorised by quarters (i.e. 2016 Q1, 2016 Q2). The new folder address is also copied and pasted into the completed tab. 
 
 #Pomodoro
